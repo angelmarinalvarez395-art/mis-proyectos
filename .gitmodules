@@ -1,0 +1,3 @@
+[submodule ".claude/marketing-source"]
+	path = .claude/marketing-source
+	url = https://github.com/coreyhaines31/marketingskills
